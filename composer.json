@@ -1,0 +1,11 @@
+{
+    "require": {
+        "adldap2/adldap2": "^10.0",
+        "vlucas/phpdotenv": "^3.3"
+    },
+    "config": {
+        "platform": {
+            "php": "7.1"
+        }
+    }
+}
